@@ -12,5 +12,5 @@
 - NLP skill track and some other courses
 
 4-projects
-- These are all python projects on the datacamp website.
+- All python projects on the datacamp website.
 
